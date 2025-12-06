@@ -9,7 +9,7 @@
 - 💻 Skills: Proficient in JavaScript, HTML, CSS, React, Node.js, and familiar with modern frameworks and libraries.
 - 💞️ Collaboration Goals: Excited to collaborate on web development projects, open-source contributions, and innovative applications that make a difference.
 - 🌐 Looking for Opportunities: Eager to kickstart my career and grow within a team that values collaboration, creativity, and innovation.
-- 📫 How to Reach Me: Feel free to connect with me via kakarllaprakash108@gmail.com  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakash-kakaralla-712534249/) .
+- 📫 How to Reach Me: Feel free to connect with me via venukarthiknaidut@gmail.com  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakash-kakaralla-712534249/) .
 
 
 I’m driven by a constant desire to learn, adapt, and contribute meaningfully to any project I’m part of. I look forward to opportunities where I can apply my skills and make a positive impact in a collaborative environment.
